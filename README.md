@@ -2,3 +2,5 @@
 *Series of Concepts wise*......
 
 Definition- Blockhain'Importance
+
+Mining
