@@ -1,10 +1,16 @@
 # Blockchain
 *Series of Concepts wise*......
 
---> Definition-
+--> Definition
+
 --> Blockhain'Importance
+
 --> Mining
+
 --> P2P Network
+
 --> Nonce
+
 --> Byzantine Geenrals Solution
+
 --> 
