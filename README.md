@@ -13,4 +13,16 @@
 
 --> Byzantine Geenrals Solution
 
---> 
+--> Decentralization
+
+--> MetaMask
+
+--> Ethereum
+
+--> Solidity
+
+--> EVM
+
+--> Layer 0,1,2
+
+
