@@ -1,28 +1,34 @@
 # Blockchain
 *Series of Concepts wise*......
 
---> Definition
+--> 1- Definition
 
---> Blockhain'Importance
+--> 2- Blockhain'Importance
 
---> Mining
+--> 3-  Mining
 
---> P2P Network
+--> 4- P2P Network
 
---> Nonce
+--> 5- Nonce
 
---> Byzantine Geenrals Solution
+--> 6- Byzantine Geenrals Solution
 
---> Decentralization
+--> 7- Decentralization
 
---> MetaMask
+--> 8- MetaMask
 
---> Ethereum
+--> 9- Ethereum
 
---> Solidity
+--> 10- Solidity
 
---> EVM
+--> 11- EVM
 
---> Layer 0,1,2
+--> 12- Layer 0,1,2
+
+--> 13- Mempool
+
+--> 14- POW
+
+--> 15- POS
 
 
