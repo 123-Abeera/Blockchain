@@ -35,17 +35,17 @@
 
 --> 17- Types of Blockchain ( Public, Private, Hybrid)
 
---> 18-
+-->  18- Bitcoin Whitepaper.
 
---> 19-
+--> 19-  Double-spending problem and how bitcoin solves it.
 
---> 20-
+--> 20 - Consensus Algorithm.
 
---> 21-
+--> 21- Proof of work vs Proof of stake.
 
---> 22-
+--> 22-  Bitcoin Mining 
 
---> 23-
+--> 23- What is 51% Attack
 
 --> 24-
 
