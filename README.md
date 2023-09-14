@@ -41,7 +41,7 @@
 
 --> 20 - Consensus Algorithm.
 
---> 21- Proof of work vs Proof of stake.
+--> 21- Proof of work vs Proof of stake
 
 --> 22-  Bitcoin Mining 
 
