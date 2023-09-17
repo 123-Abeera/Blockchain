@@ -1,5 +1,5 @@
 # Blockchain
-*Series of Concepts wise*..
+*Series of Concepts wise*.
 
 --> 1- Definition Blockchain
 
