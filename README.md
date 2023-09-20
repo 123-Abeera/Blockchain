@@ -35,7 +35,7 @@
 
 --> 17- Types of Blockchain ( Public, Private, Hybrid)
 
--->  18- Bitcoin Whitepaper.
+-->  18- Bitcoin Whitepaper
 
 --> 19-  Double-spending problem and how bitcoin solves it.
 
