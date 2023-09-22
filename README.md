@@ -47,7 +47,7 @@
 
 --> 23- What is 51% Attack
 
---> 24- Merg
+--> 24- Merge
 
 --> 25-
 
