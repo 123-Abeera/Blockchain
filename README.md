@@ -39,7 +39,7 @@
 
 --> 19-  Double-spending problem and how bitcoin solves .
 
---> 20 - Consensus Algorithm.
+--> 20 - Consensus Algorithm
 
 --> 21- Proof of work vs Proof of stake
 
