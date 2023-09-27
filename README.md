@@ -5,7 +5,7 @@
 
 --> 2- Blockhain'Importance
 
---> 3-  Mining
+--> 3- Mining
 
 --> 4- P2P Network
 
