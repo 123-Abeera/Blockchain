@@ -3,7 +3,7 @@
 
 --> 1- Definition Blockchain
 
---> 2- Blockhain'Importance
+--> 2- Blockhain Importance
 
 --> 3- Mining
 
