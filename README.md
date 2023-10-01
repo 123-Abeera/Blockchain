@@ -11,7 +11,7 @@
 
 --> 5- Nonce
 
---> 6- Byzantine Generals Solution
+--> 6- Byzantine General Solution
 
 --> 7- Decentralization
 
