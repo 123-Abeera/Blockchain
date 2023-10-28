@@ -31,7 +31,7 @@
 
 --> 15- POS
 
---> 16- Bitcoin VS Blackchain
+--> 16- Bitcoin VS Blockchain
 
 --> 17- Types of Blockchain ( Public, Private, Hybrid)
 
