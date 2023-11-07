@@ -37,7 +37,7 @@
 
 -->  18- Bitcoin Whitepaper
 
---> 19-  Double-spending problem and how bitcoin solves .
+--> 19-  Double-spending problem and how bitcoin solves 
 
 --> 20 - Consensus Algorithm
 
