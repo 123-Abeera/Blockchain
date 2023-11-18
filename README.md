@@ -55,7 +55,7 @@
 
 --> 27- Truffle
 
---> 28- GANACHE
+--> 28- GANACH
 
 --> 29
 
