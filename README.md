@@ -57,7 +57,7 @@
 
 --> 28- GANACH
 
---> 29-
+--> 29- Blockchain Architecture
 
 --> 30
 
